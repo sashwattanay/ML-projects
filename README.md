@@ -23,8 +23,8 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
 ## About Me
 I am Sashwat Tanay, a theoretical astrophysicist by training, seguing into machine learning.
 
-- **GitHub Profile:** [Sashwat Tanay on GitHub](https://github.com/sashwattanay)
-- **Kaggle Profile:** [Sashwat Tanay on Kaggle](https://www.kaggle.com/sashwattanay)
+- **GitHub Profile:** [here](https://github.com/sashwattanay)
+- **Kaggle Profile:** [here](https://www.kaggle.com/sashwattanay)
 
 ## How to Use
 Click on the links above to explore individual projects. Each repository contains:
