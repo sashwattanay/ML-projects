@@ -41,10 +41,6 @@ Click on the links above to explore individual projects. Each repository contain
 - Jupyter notebooks with code and documentation.
 - Supporting files for data and dependencies.
 
-## Next Steps
-- Add more projects as I continue learning and experimenting with machine learning techniques.
-- Explore advanced topics like deep learning and ensemble methods.
-
 ## Contact
 Feel free to connect with me:
 - **Email:** [sashwattanay@gmail.com]
