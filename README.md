@@ -20,8 +20,17 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
   - Achieved a test accuracy of **97.31%** with high precision and recall.
 - **Skills Demonstrated:** Feature selection, hyperparameter tuning, cross-validation.
 
+### [3. Classifying Iris Flowers Using Batch Gradient Descent and Early Stopping](https://github.com/sashwattanay/ML-Iris-flowers-project)
+- **Description:** Classify the Iris flower dataset using softmax regression implemented from scratch with batch gradient descent and early stopping.
+- **Key Highlights:**
+  - Scaled features and one-hot encoded target labels.
+  - Implemented softmax regression, cross-entropy loss, and early stopping.
+  - Achieved a test accuracy of **76.67%** with effective prevention of overfitting.
+  - Visualized training/validation loss curves and decision boundaries.
+- **Skills Demonstrated:** Algorithm development, optimization, feature scaling, visualization.
+
 ## About Me
-I am Sashwat Tanay, a theoretical astrophysicist by training, seguing into machine learning.
+I am Sashwat Tanay, a theoretical astrophysicist by training, segueing into machine learning.
 - **Personal Website:** [here](https://sashwattanay.github.io/site)
 - **GitHub Profile:** [here](https://github.com/sashwattanay)
 - **Kaggle Profile:** [here](https://www.kaggle.com/sashwattanay)
