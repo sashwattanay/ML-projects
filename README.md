@@ -29,6 +29,14 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
   - Visualized training/validation loss curves and decision boundaries.
 - **Skills Demonstrated:** Algorithm development, optimization, feature scaling, visualization.
 
+### [4. Predicting California Housing Prices Using Support Vector Regression](https://github.com/sashwattanay/ML-SVM-regression)
+- **Description:** Predict median house values in California districts using Support Vector Regression (SVR).
+- **Key Highlights:**
+  - Scaled features using `StandardScaler` for SVR performance.
+  - Performed hyperparameter tuning with `RandomizedSearchCV` across `C`, `epsilon`, and `kernel`.
+  - Achieved a Root Mean Squared Error (RMSE) of **0.5672** and a Mean Absolute Percentage Error (MAPE) of **20.40%**.
+- **Skills Demonstrated:** Support vector machines, hyperparameter tuning, cross-validation, regression analysis.
+
 ## About Me
 I am Sashwat Tanay, a theoretical astrophysicist by training, segueing into machine learning.
 - **Personal Website:** [here](https://sashwattanay.github.io/site)
