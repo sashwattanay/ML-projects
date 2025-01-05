@@ -37,6 +37,14 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
   - Achieved a Root Mean Squared Error (RMSE) of **0.5672** and a Mean Absolute Percentage Error (MAPE) of **20.40%**.
 - **Skills Demonstrated:** Support vector machines, hyperparameter tuning, cross-validation, regression analysis.
 
+### [5. Handwritten Digit Classification Using Ensemble Learning](https://github.com/sashwattanay/ML-Ensemble-Learning-Random-Forest)
+- **Description:** Classify handwritten digits (0-9) from the MNIST dataset using an ensemble of Random Forest, Extra-Trees, and Support Vector Machine (SVM) classifiers.
+- **Key Highlights:**
+  - Tuned hyperparameters for Random Forest and Extra-Trees using `RandomizedSearchCV`.
+  - Combined classifiers using both **hard voting** and **soft voting** ensembles.
+  - Achieved a test accuracy of **98.05%** using the soft voting ensemble.
+- **Skills Demonstrated:** Ensemble learning, hyperparameter tuning, soft voting, model evaluation.
+
 ## About Me
 I am Sashwat Tanay, a theoretical astrophysicist by training, segueing into machine learning.
 - **Personal Website:** [here](https://sashwattanay.github.io/site)
