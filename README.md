@@ -45,6 +45,15 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
   - Achieved a test accuracy of **98.05%** using the soft voting ensemble.
 - **Skills Demonstrated:** Ensemble learning, hyperparameter tuning, soft voting, model evaluation.
 
+### [6. MNIST Digit Classification with Neural Networks](https://github.com/sashwattanay/ML-Neural-Nets-MNIST)
+- **Description:** Classify handwritten digits from the MNIST dataset using a fully connected neural network.
+- **Key Highlights:**
+  - Hyperparameter tuning using **Keras Tuner's Hyperband**.
+  - Early stopping and checkpointing to prevent overfitting.
+  - Achieved a test accuracy of **97.58%** with well-tuned parameters.
+  - Visualized training and validation performance through loss/accuracy plots.
+- **Skills Demonstrated:** Neural networks, hyperparameter tuning, model evaluation, and diagnostics.
+
 ## About Me
 I am Sashwat Tanay, a theoretical astrophysicist by training, segueing into machine learning.
 - **Personal Website:** [here](https://sashwattanay.github.io/site)
