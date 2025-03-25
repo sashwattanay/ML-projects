@@ -54,6 +54,16 @@ Welcome to my Machine Learning Projects Portfolio! This repository serves as a c
   - Visualized training and validation performance through loss/accuracy plots.
 - **Skills Demonstrated:** Neural networks, hyperparameter tuning, model evaluation, and diagnostics.
 
+
+### [7. CIFAR-10 Image Classification with Deep Neural Networks](https://github.com/sashwattanay/ML-Deep-Learning-CIFAR10)
+- **Description:** Classify images from the CIFAR-10 dataset using a deep multi-layer perceptron (MLP) with 20 hidden layers. The model incorporates Batch Normalization, L2 Regularization, Learning Rate Scheduling, and Early Stopping to combat overfitting and optimize performance.
+- **Key Highlights:**
+  - **Data Splitting:** The CIFAR-10 dataset was divided into training (80%), validation (20%), and test sets.
+  - **Network Architecture:** A fully connected network with 20 hidden layers (100 neurons each) using the Swish activation function and He-normal initialization.
+  - **Regularization & Optimization:** Integrated Batch Normalization and L2 regularization, with a custom learning rate scheduler and early stopping to restore the best model weights.
+  - **Performance:** Achieved a test accuracy of approximately **50%**.
+- **Skills Demonstrated:** Deep neural network design, data preprocessing, hyperparameter tuning, regularization techniques, and model evaluation.
+
 ## About Me
 I am Sashwat Tanay, a theoretical astrophysicist by training, segueing into machine learning.
 - **Personal Website:** [here](https://sashwattanay.github.io/site)
